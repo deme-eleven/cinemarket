@@ -12,3 +12,17 @@ body {
     margin-top: 0px;
   }
 }
+.home {
+  > .button {
+    margin: 10px 10px;
+    max-width: 300px;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@import "../components/button/button.styles.scss";
+@import "../components/modal/modal.styles.scss";
