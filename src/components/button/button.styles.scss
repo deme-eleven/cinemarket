@@ -1,0 +1,20 @@
+.button {
+  background: #fcb81b;
+  padding: 20px;
+  border-radius: 50px;
+  min-width: 200px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  > svg {
+    margin-right: 10px;
+  }
+  &.alternate {
+    border: 1px solid #eceeed;
+    background: #fff;
+  }
+}
