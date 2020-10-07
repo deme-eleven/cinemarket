@@ -2,7 +2,7 @@ import React from "react";
 import Button from "./components/button/button";
 import Modal from "./components/modal/modal";
 import api from "./helpers/api";
-import Input, { useInput } from "./components/input/input";
+import { useInput } from "./components/input/input";
 
 function App() {
   const [modal, setModal] = React.useState(false);
