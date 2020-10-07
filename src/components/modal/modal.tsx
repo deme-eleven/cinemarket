@@ -1,7 +1,6 @@
 import React from "react";
 import Button from "../button/button";
-// import data from "../../data.json";
-import { useTable, Column } from "react-table";
+import { useTable } from "react-table";
 import { MdClose } from "react-icons/md";
 
 type ModalProps = {
@@ -13,7 +12,7 @@ type ModalProps = {
 export default function Modal(props: ModalProps) {
   const data = React.useMemo(() => {
     return props.data.data;
-  }, []);
+  }, [props.data]);
 
   const columns = React.useMemo(() => {
     let header = [{ Header: "Country", accessor: "country" }];
@@ -21,14 +20,9 @@ export default function Modal(props: ModalProps) {
       header.push({ Header: iterator, accessor: iterator });
     }
     return header;
-  }, []);
+  }, [props.data.headers]);
 
-  const {
-    headerGroups,
-    rows,
-    prepareRow,
-    // @ts-ignore
-  } = useTable({ columns, data });
+  const { headerGroups, rows, prepareRow } = useTable({ columns, data });
 
   const renderCell = (value: undefined | "exclusive" | "non-exclusive") => {
     switch (value) {
