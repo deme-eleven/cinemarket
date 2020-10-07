@@ -1,0 +1,2654 @@
+{
+  "non_theatrical": {
+    "ZWE": {
+      "territory": "ZWE",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ZMB": {
+      "territory": "ZMB",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ZAF": {
+      "territory": "ZAF",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "UGA": {
+      "territory": "UGA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TZA": {
+      "territory": "TZA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TUN": {
+      "territory": "TUN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TGO": {
+      "territory": "TGO",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TCD": {
+      "territory": "TCD",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SYC": {
+      "territory": "SYC",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SWZ": {
+      "territory": "SWZ",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "STP": {
+      "territory": "STP",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SSD": {
+      "territory": "SSD",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SOM": {
+      "territory": "SOM",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SLE": {
+      "territory": "SLE",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SHN": {
+      "territory": "SHN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SEN": {
+      "territory": "SEN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SDN": {
+      "territory": "SDN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "RWA": {
+      "territory": "RWA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "REU": {
+      "territory": "REU",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NGA": {
+      "territory": "NGA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NER": {
+      "territory": "NER",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NAM": {
+      "territory": "NAM",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MYT": {
+      "territory": "MYT",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MWI": {
+      "territory": "MWI",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MUS": {
+      "territory": "MUS",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MRT": {
+      "territory": "MRT",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MOZ": {
+      "territory": "MOZ",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MLI": {
+      "territory": "MLI",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MDG": {
+      "territory": "MDG",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MAR": {
+      "territory": "MAR",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LSO": {
+      "territory": "LSO",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LBY": {
+      "territory": "LBY",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LBR": {
+      "territory": "LBR",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "KEN": {
+      "territory": "KEN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GNQ": {
+      "territory": "GNQ",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GNB": {
+      "territory": "GNB",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GMB": {
+      "territory": "GMB",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GIN": {
+      "territory": "GIN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GHA": {
+      "territory": "GHA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GAB": {
+      "territory": "GAB",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ETH": {
+      "territory": "ETH",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ESH": {
+      "territory": "ESH",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ERI": {
+      "territory": "ERI",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "EGY": {
+      "territory": "EGY",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "DZA": {
+      "territory": "DZA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "DJI": {
+      "territory": "DJI",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CPV": {
+      "territory": "CPV",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COM": {
+      "territory": "COM",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COG": {
+      "territory": "COG",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COD": {
+      "territory": "COD",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CMR": {
+      "territory": "CMR",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CIV": {
+      "territory": "CIV",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CAF": {
+      "territory": "CAF",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BWA": {
+      "territory": "BWA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BFA": {
+      "territory": "BFA",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BEN": {
+      "territory": "BEN",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BDI": {
+      "territory": "BDI",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "AGO": {
+      "territory": "AGO",
+      "typeOfRight": "non_theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    }
+  },
+  "theatrical": {
+    "ZWE": {
+      "territory": "ZWE",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ZMB": {
+      "territory": "ZMB",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ZAF": {
+      "territory": "ZAF",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "UGA": {
+      "territory": "UGA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TZA": {
+      "territory": "TZA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TUN": {
+      "territory": "TUN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TGO": {
+      "territory": "TGO",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TCD": {
+      "territory": "TCD",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SYC": {
+      "territory": "SYC",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SWZ": {
+      "territory": "SWZ",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "STP": {
+      "territory": "STP",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SSD": {
+      "territory": "SSD",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SOM": {
+      "territory": "SOM",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SLE": {
+      "territory": "SLE",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SHN": {
+      "territory": "SHN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SEN": {
+      "territory": "SEN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SDN": {
+      "territory": "SDN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "RWA": {
+      "territory": "RWA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "REU": {
+      "territory": "REU",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NGA": {
+      "territory": "NGA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NER": {
+      "territory": "NER",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NAM": {
+      "territory": "NAM",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MYT": {
+      "territory": "MYT",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MWI": {
+      "territory": "MWI",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MUS": {
+      "territory": "MUS",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MRT": {
+      "territory": "MRT",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MOZ": {
+      "territory": "MOZ",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MLI": {
+      "territory": "MLI",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MDG": {
+      "territory": "MDG",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MAR": {
+      "territory": "MAR",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LSO": {
+      "territory": "LSO",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LBY": {
+      "territory": "LBY",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LBR": {
+      "territory": "LBR",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "KEN": {
+      "territory": "KEN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GNQ": {
+      "territory": "GNQ",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GNB": {
+      "territory": "GNB",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GMB": {
+      "territory": "GMB",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GIN": {
+      "territory": "GIN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GHA": {
+      "territory": "GHA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GAB": {
+      "territory": "GAB",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ETH": {
+      "territory": "ETH",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ESH": {
+      "territory": "ESH",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ERI": {
+      "territory": "ERI",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "EGY": {
+      "territory": "EGY",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "DZA": {
+      "territory": "DZA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "DJI": {
+      "territory": "DJI",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CPV": {
+      "territory": "CPV",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COM": {
+      "territory": "COM",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COG": {
+      "territory": "COG",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COD": {
+      "territory": "COD",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CMR": {
+      "territory": "CMR",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CIV": {
+      "territory": "CIV",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CAF": {
+      "territory": "CAF",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BWA": {
+      "territory": "BWA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BFA": {
+      "territory": "BFA",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BEN": {
+      "territory": "BEN",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BDI": {
+      "territory": "BDI",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "AGO": {
+      "territory": "AGO",
+      "typeOfRight": "theatrical",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    }
+  },
+  "tvod": {
+    "ZWE": {
+      "territory": "ZWE",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ZMB": {
+      "territory": "ZMB",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ZAF": {
+      "territory": "ZAF",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "UGA": {
+      "territory": "UGA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TZA": {
+      "territory": "TZA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TUN": {
+      "territory": "TUN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TGO": {
+      "territory": "TGO",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "TCD": {
+      "territory": "TCD",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SYC": {
+      "territory": "SYC",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SWZ": {
+      "territory": "SWZ",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "STP": {
+      "territory": "STP",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SSD": {
+      "territory": "SSD",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SOM": {
+      "territory": "SOM",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SLE": {
+      "territory": "SLE",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SHN": {
+      "territory": "SHN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SEN": {
+      "territory": "SEN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "SDN": {
+      "territory": "SDN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "RWA": {
+      "territory": "RWA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "REU": {
+      "territory": "REU",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NGA": {
+      "territory": "NGA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NER": {
+      "territory": "NER",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "NAM": {
+      "territory": "NAM",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MYT": {
+      "territory": "MYT",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MWI": {
+      "territory": "MWI",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MUS": {
+      "territory": "MUS",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MRT": {
+      "territory": "MRT",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MOZ": {
+      "territory": "MOZ",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MLI": {
+      "territory": "MLI",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MDG": {
+      "territory": "MDG",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "MAR": {
+      "territory": "MAR",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LSO": {
+      "territory": "LSO",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LBY": {
+      "territory": "LBY",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "LBR": {
+      "territory": "LBR",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "KEN": {
+      "territory": "KEN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GNQ": {
+      "territory": "GNQ",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GNB": {
+      "territory": "GNB",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GMB": {
+      "territory": "GMB",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GIN": {
+      "territory": "GIN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GHA": {
+      "territory": "GHA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "GAB": {
+      "territory": "GAB",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ETH": {
+      "territory": "ETH",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ESH": {
+      "territory": "ESH",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "ERI": {
+      "territory": "ERI",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "EGY": {
+      "territory": "EGY",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "DZA": {
+      "territory": "DZA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "DJI": {
+      "territory": "DJI",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CPV": {
+      "territory": "CPV",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COM": {
+      "territory": "COM",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COG": {
+      "territory": "COG",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "COD": {
+      "territory": "COD",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CMR": {
+      "territory": "CMR",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CIV": {
+      "territory": "CIV",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "CAF": {
+      "territory": "CAF",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BWA": {
+      "territory": "BWA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BFA": {
+      "territory": "BFA",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BEN": {
+      "territory": "BEN",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "BDI": {
+      "territory": "BDI",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    },
+    "AGO": {
+      "territory": "AGO",
+      "typeOfRight": "tvod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": null,
+      "isExclusive": true
+    }
+  },
+  "pay_tv": {
+    "YEM": {
+      "territory": "YEM",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "VNM": {
+      "territory": "VNM",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "UZB": {
+      "territory": "UZB",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TWN": {
+      "territory": "TWN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TUR": {
+      "territory": "TUR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TKM": {
+      "territory": "TKM",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TJK": {
+      "territory": "TJK",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "THA": {
+      "territory": "THA",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SYR": {
+      "territory": "SYR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SGP": {
+      "territory": "SGP",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SAU": {
+      "territory": "SAU",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "QAT": {
+      "territory": "QAT",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PSE": {
+      "territory": "PSE",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PRK": {
+      "territory": "PRK",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PHL": {
+      "territory": "PHL",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PAK": {
+      "territory": "PAK",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "OMN": {
+      "territory": "OMN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "NPL": {
+      "territory": "NPL",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MYS": {
+      "territory": "MYS",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MNG": {
+      "territory": "MNG",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MMR": {
+      "territory": "MMR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MDV": {
+      "territory": "MDV",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MAC": {
+      "territory": "MAC",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LKA": {
+      "territory": "LKA",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LBN": {
+      "territory": "LBN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LAO": {
+      "territory": "LAO",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KWT": {
+      "territory": "KWT",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KOR": {
+      "territory": "KOR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KHM": {
+      "territory": "KHM",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KGZ": {
+      "territory": "KGZ",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KAZ": {
+      "territory": "KAZ",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "JPN": {
+      "territory": "JPN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "JOR": {
+      "territory": "JOR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ISR": {
+      "territory": "ISR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IRQ": {
+      "territory": "IRQ",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IRN": {
+      "territory": "IRN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IOT": {
+      "territory": "IOT",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IND": {
+      "territory": "IND",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IDN": {
+      "territory": "IDN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "HKG": {
+      "territory": "HKG",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "GEO": {
+      "territory": "GEO",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CXR": {
+      "territory": "CXR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CHN": {
+      "territory": "CHN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CCK": {
+      "territory": "CCK",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BTN": {
+      "territory": "BTN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BRN": {
+      "territory": "BRN",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BHR": {
+      "territory": "BHR",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BGD": {
+      "territory": "BGD",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "AZE": {
+      "territory": "AZE",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ARM": {
+      "territory": "ARM",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ARE": {
+      "territory": "ARE",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "AFG": {
+      "territory": "AFG",
+      "typeOfRight": "pay_tv",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    }
+  },
+  "svod": {
+    "YEM": {
+      "territory": "YEM",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "VNM": {
+      "territory": "VNM",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "UZB": {
+      "territory": "UZB",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TWN": {
+      "territory": "TWN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TUR": {
+      "territory": "TUR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TKM": {
+      "territory": "TKM",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TJK": {
+      "territory": "TJK",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "THA": {
+      "territory": "THA",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SYR": {
+      "territory": "SYR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SGP": {
+      "territory": "SGP",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SAU": {
+      "territory": "SAU",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "QAT": {
+      "territory": "QAT",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PSE": {
+      "territory": "PSE",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PRK": {
+      "territory": "PRK",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PHL": {
+      "territory": "PHL",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PAK": {
+      "territory": "PAK",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "OMN": {
+      "territory": "OMN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "NPL": {
+      "territory": "NPL",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MYS": {
+      "territory": "MYS",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MNG": {
+      "territory": "MNG",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MMR": {
+      "territory": "MMR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MDV": {
+      "territory": "MDV",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MAC": {
+      "territory": "MAC",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LKA": {
+      "territory": "LKA",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LBN": {
+      "territory": "LBN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LAO": {
+      "territory": "LAO",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KWT": {
+      "territory": "KWT",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KOR": {
+      "territory": "KOR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KHM": {
+      "territory": "KHM",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KGZ": {
+      "territory": "KGZ",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KAZ": {
+      "territory": "KAZ",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "JPN": {
+      "territory": "JPN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "JOR": {
+      "territory": "JOR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ISR": {
+      "territory": "ISR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IRQ": {
+      "territory": "IRQ",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IRN": {
+      "territory": "IRN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IOT": {
+      "territory": "IOT",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IND": {
+      "territory": "IND",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IDN": {
+      "territory": "IDN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "HKG": {
+      "territory": "HKG",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "GEO": {
+      "territory": "GEO",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CXR": {
+      "territory": "CXR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CHN": {
+      "territory": "CHN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CCK": {
+      "territory": "CCK",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BTN": {
+      "territory": "BTN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BRN": {
+      "territory": "BRN",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BHR": {
+      "territory": "BHR",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BGD": {
+      "territory": "BGD",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "AZE": {
+      "territory": "AZE",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ARM": {
+      "territory": "ARM",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ARE": {
+      "territory": "ARE",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "AFG": {
+      "territory": "AFG",
+      "typeOfRight": "svod",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    }
+  },
+  "dtr": {
+    "YEM": {
+      "territory": "YEM",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "VNM": {
+      "territory": "VNM",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "UZB": {
+      "territory": "UZB",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TWN": {
+      "territory": "TWN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TUR": {
+      "territory": "TUR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TKM": {
+      "territory": "TKM",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "TJK": {
+      "territory": "TJK",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "THA": {
+      "territory": "THA",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SYR": {
+      "territory": "SYR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SGP": {
+      "territory": "SGP",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "SAU": {
+      "territory": "SAU",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "QAT": {
+      "territory": "QAT",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PSE": {
+      "territory": "PSE",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PRK": {
+      "territory": "PRK",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PHL": {
+      "territory": "PHL",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "PAK": {
+      "territory": "PAK",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "OMN": {
+      "territory": "OMN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "NPL": {
+      "territory": "NPL",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MYS": {
+      "territory": "MYS",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MNG": {
+      "territory": "MNG",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MMR": {
+      "territory": "MMR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MDV": {
+      "territory": "MDV",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "MAC": {
+      "territory": "MAC",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LKA": {
+      "territory": "LKA",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LBN": {
+      "territory": "LBN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "LAO": {
+      "territory": "LAO",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KWT": {
+      "territory": "KWT",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KOR": {
+      "territory": "KOR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KHM": {
+      "territory": "KHM",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KGZ": {
+      "territory": "KGZ",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "KAZ": {
+      "territory": "KAZ",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "JPN": {
+      "territory": "JPN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "JOR": {
+      "territory": "JOR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ISR": {
+      "territory": "ISR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IRQ": {
+      "territory": "IRQ",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IRN": {
+      "territory": "IRN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IOT": {
+      "territory": "IOT",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IND": {
+      "territory": "IND",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "IDN": {
+      "territory": "IDN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "HKG": {
+      "territory": "HKG",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "GEO": {
+      "territory": "GEO",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CXR": {
+      "territory": "CXR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CHN": {
+      "territory": "CHN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "CCK": {
+      "territory": "CCK",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BTN": {
+      "territory": "BTN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BRN": {
+      "territory": "BRN",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BHR": {
+      "territory": "BHR",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "BGD": {
+      "territory": "BGD",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "AZE": {
+      "territory": "AZE",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ARM": {
+      "territory": "ARM",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "ARE": {
+      "territory": "ARE",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    },
+    "AFG": {
+      "territory": "AFG",
+      "typeOfRight": "dtr",
+      "companyId": "134f9661-4d06-43bd-aa09-db61113801ce",
+      "from": "2020-01-01T09:42:47+0000",
+      "to": "2022-12-31T23:00:00+0000",
+      "isExclusive": false
+    }
+  }
+}
