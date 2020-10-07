@@ -42,8 +42,7 @@ const api = {
   },
 
   getRights: async (): Promise<any> => {
-    // although this isn't the right workflow in a production app
-    // for our case we're simplifying it and always getting a new token
+    // although this isn't the right workflow for production app due to time better simplifying it and always getting a new token
     let accessToken = await api.getToken();
     let data = await api.getRightsRequest(accessToken);
     return data;
