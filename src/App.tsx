@@ -1,7 +1,6 @@
 import React from "react";
 import Button from "./components/button/button";
 import Modal from "./components/modal/modal";
-import json from "./data.json";
 import api from "./helpers/api";
 
 function App() {
@@ -13,55 +12,56 @@ function App() {
   };
 
   React.useEffect(() => {
-    // api.getRights();
     const getData = async () => {
-      let response = await api.getRights();
-
-      console.log(response);
-
-      // @ts-ignore
-      setData(response);
-    };
-    getData();
-    const headers = [];
-    const unsorted = [];
-    for (let i = 0; i < Object.keys(json).length; i++) {
-      let baseIndex = Object.keys(json)[i];
-      headers.push(baseIndex);
-      // @ts-ignore
-      for (const country of Object.keys(json[baseIndex])) {
+      const json = await api.getRights();
+      // the parsing of the data is done in 3 parts
+      // this can be optimized and moved to a single helper function
+      const headers = [];
+      const unsorted = [];
+      for (let i = 0; i < Object.keys(json).length; i++) {
+        let baseIndex = Object.keys(json)[i];
+        headers.push(baseIndex);
         // @ts-ignore
-        unsorted.push(json[baseIndex][country]);
+        for (const country of Object.keys(json[baseIndex])) {
+          // @ts-ignore
+          unsorted.push(json[baseIndex][country]);
+        }
       }
-    }
 
-    const mapped = new Map();
-    for (const unsortedCountry of unsorted) {
-      const uniqueCountry = unsortedCountry.territory;
-      // sorted.set(uniqueCountry, {});
-      if (mapped.has(uniqueCountry)) {
-        let value = mapped.get(uniqueCountry);
-        value[unsortedCountry.typeOfRight] = unsortedCountry.isExclusive
-          ? "exclusive"
-          : "non-exclusive";
-        mapped.set(uniqueCountry, value);
-      } else {
-        let obj: any = {};
-        obj.country = unsortedCountry.territory;
-        obj[unsortedCountry.typeOfRight] = unsortedCountry.isExclusive
-          ? "exclusive"
-          : "non-exclusive";
-        mapped.set(uniqueCountry, obj);
+      const mapped = new Map();
+      for (const unsortedCountry of unsorted) {
+        const uniqueCountry = unsortedCountry.territory;
+        // sorted.set(uniqueCountry, {});
+        if (mapped.has(uniqueCountry)) {
+          let value = mapped.get(uniqueCountry);
+          value[unsortedCountry.typeOfRight] = unsortedCountry.isExclusive
+            ? "exclusive"
+            : "non-exclusive";
+          mapped.set(uniqueCountry, value);
+        } else {
+          let obj: any = {};
+          obj.country = unsortedCountry.territory;
+          obj[unsortedCountry.typeOfRight] = unsortedCountry.isExclusive
+            ? "exclusive"
+            : "non-exclusive";
+          mapped.set(uniqueCountry, obj);
+        }
       }
-    }
 
-    const sorted: any = [];
+      // the sorted array at the moment has headers and countries in the original format
+      // this can be fixed by iterating over the array once again and replacing the strings
+      // or by doing it in the component
 
-    for (const iterator of Array.from(mapped)) {
-      sorted.push(iterator[1]);
-    }
-    // @ts-ignore
-    setData({ headers: headers, data: sorted.reverse() });
+      const sorted: any = [];
+
+      for (const iterator of Array.from(mapped)) {
+        sorted.push(iterator[1]);
+      }
+      // @ts-ignore
+      setData({ headers: headers, data: sorted.reverse() });
+    };
+
+    getData();
   }, []);
 
   return (
