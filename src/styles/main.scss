@@ -12,10 +12,24 @@ body {
     margin-top: 0px;
   }
 }
+
 .home {
-  > .button {
-    margin: 10px 10px;
-    max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #2b2b2b;
+  .container {
+    background: #fff;
+    padding: 20px 10px;
+    padding-bottom: 10px;
+    > .button {
+      max-width: 300px;
+      height: 10px;
+      padding: 10px;
+      margin-top: 20px;
+    }
   }
 }
 
@@ -26,3 +40,4 @@ code {
 
 @import "../components/button/button.styles.scss";
 @import "../components/modal/modal.styles.scss";
+@import "../components/input/input.styles.scss";

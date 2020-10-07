@@ -21,9 +21,13 @@ const api = {
     return response.accessToken;
   },
 
-  getRightsRequest: async (accessToken: string): Promise<any> => {
+  getRightsRequest: async (
+    accessToken: string,
+    seller: string,
+    movie: string
+  ): Promise<any> => {
     let response = await fetch(
-      "https://api.cinemarket-dev.com/api/sellers/4f4da566-19a0-4eff-9952-9d2d4d2900f3/movies/036dbdf4-294f-4473-b088-5b7f6d29d4eb/availableRights",
+      `https://api.cinemarket-dev.com/api/sellers/${seller}/movies/${movie}/availableRights`,
       {
         method: "GET",
         headers: {
@@ -41,10 +45,11 @@ const api = {
     return response;
   },
 
-  getRights: async (): Promise<any> => {
-    // although this isn't the right workflow for production app due to time better simplifying it and always getting a new token
+  getRights: async (seller: string, movie: string): Promise<any> => {
+    // although this isn't the right workflow in a production app
+    // for our case we're simplifying it and always getting a new token
     let accessToken = await api.getToken();
-    let data = await api.getRightsRequest(accessToken);
+    let data = await api.getRightsRequest(accessToken, seller, movie);
     return data;
   },
 };
