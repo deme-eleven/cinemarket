@@ -1,5 +1,3 @@
-import { isRegExp } from "util";
-
 const api = {
   getToken: async (): Promise<any> => {
     const refreshToken = "543f607b454a74d6088c009c5f9b40d4";
@@ -44,28 +42,10 @@ const api = {
   },
 
   getRights: async (): Promise<any> => {
+    // although this isn't the right workflow in a production app
+    // for our case we're simplifying it and always getting a new token
     let accessToken = await api.getToken();
     let data = await api.getRightsRequest(accessToken);
-    // let accessToken = localStorage.getItem("accessToken");
-    // if (!accessToken) {
-    //   accessToken = await api.getToken();
-    //   if (accessToken) {
-    //     localStorage.setItem("accessToken", accessToken);
-    //   }
-    //   return await api.getRightsRequest(accessToken!);
-    // } else {
-    //   let data = await api.getRightsRequest(accessToken!);
-    //   if (data.message === "Access token has expired.") {
-    //     accessToken = await api.getToken();
-    //     if (accessToken) {
-    //       localStorage.setItem("accessToken", accessToken);
-    //     }
-    //     let data = await api.getRightsRequest(accessToken!);
-    //     return data;
-    //   } else {
-    //     return data;
-    //   }
-    // }
     return data;
   },
 };
