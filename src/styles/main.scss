@@ -24,6 +24,11 @@ body {
     background: #fff;
     padding: 20px 10px;
     padding-bottom: 10px;
+    .error {
+      text-align: center;
+      color: red;
+      font-size: 14px;
+    }
     > .button {
       max-width: 300px;
       height: 10px;
